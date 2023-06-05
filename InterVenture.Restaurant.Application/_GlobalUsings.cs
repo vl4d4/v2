@@ -1,0 +1,9 @@
+﻿global using InterVenture.Restaurant.Application.Services;
+global using InterVenture.Restaurant.Application.ShoppingCarts;
+global using InterVenture.Restaurant.Domain.Models;
+global using InterVenture.Restaurant.Domain.Views;
+global using InterVenture.Restaurant.Infrastructure;
+global using MediatR;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.Extensions.DependencyInjection;
+global using System.Text.Json.Serialization;
